@@ -32,6 +32,8 @@ public class PracticaGitHub {
 
         lista.agregarNombre(nombre);
         lista.agregarNombre(nombre3);
-        lista.listarNombres();   
+        lista.listarNombres();
+        lista.agregarNombre(nombre4);
+         Nombre nombre4 = new Nombre("Ernesto");   
     }
 }
