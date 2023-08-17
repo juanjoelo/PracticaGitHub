@@ -25,15 +25,17 @@ public class PracticaGitHub {
 
         Nombre nombre4 = new Nombre("Maxi");
        
-
+        Nombre nombre5 = new Nombre("Ernesto"); 
        Nombre nombre3 = new Nombre("Ivo");
         lista.agregarNombre(nombre2);
         lista.agregarNombre(nombre4);
-
+        lista.agregarNombre(nombre5);
         lista.agregarNombre(nombre);
         lista.agregarNombre(nombre3);
+        
+        
         lista.listarNombres();
-        lista.agregarNombre(nombre4);
-         Nombre nombre4 = new Nombre("Ernesto");   
+        
+            
     }
 }
