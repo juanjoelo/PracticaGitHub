@@ -21,6 +21,7 @@ public class PracticaGitHub {
         
         //Agregá tu nombre y hacé un push en github Desktop!
         Nombre nombre = new Nombre("Juan");
+        Nombre nombre2 = new Nombre("Maxi");
        
         lista.agregarNombre(nombre);
         
