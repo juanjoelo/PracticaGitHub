@@ -24,8 +24,14 @@ public class PracticaGitHub {
        
         lista.agregarNombre(nombre);
         
-        lista.listarNombres();
+        lista.listarNombres();   
+        Presentacion lista = new Presentacion();
         
+        //Agregá tu nombre y hacé un push en github Desktop!
+        Nombre nombre2 = new Nombre("Ivo");
+       
+        lista.agregarNombre(nombre);
+        
+        lista.listarNombres();
     }
-    
 }
